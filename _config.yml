@@ -98,7 +98,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
+    #{
         title: "三叶草国际语维基词典",
         href: "https://github.com/klovien/klovien.github.io/wiki"
     },{
